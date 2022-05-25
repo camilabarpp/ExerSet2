@@ -29,6 +29,7 @@ public class Program {
             bb.add(number);
         }
 
+
         System.out.print("How many students for course C? ");
         n = sc.nextInt();
         for (int i=0; i<n; i++) {
